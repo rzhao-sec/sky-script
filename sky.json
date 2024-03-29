@@ -1,0 +1,155 @@
+{
+	"switchKey": "Key_QuoteLeft",
+	"keyMapNodes": [
+		{
+			"comment": "C-",
+			"type": "KMT_CLICK",
+			"key": "Key_Q",
+			"pos": {
+				"x": 0.3,
+				"y": 0.15
+			},
+			"switchMap": false
+		},
+		{
+			"comment": "D-",
+			"type": "KMT_CLICK",
+			"key": "Key_W",
+			"pos": {
+				"x": 0.4,
+				"y": 0.15
+			},
+			"switchMap": false
+		},
+		{
+			"comment": "E-",
+			"type": "KMT_CLICK",
+			"key": "Key_E",
+			"pos": {
+				"x": 0.5,
+				"y": 0.15
+			},
+			"switchMap": false
+		},
+		{
+			"comment": "F-",
+			"type": "KMT_CLICK",
+			"key": "Key_R",
+			"pos": {
+				"x": 0.6,
+				"y": 0.15
+			},
+			"switchMap": false
+		},
+		{
+			"comment": "G-",
+			"type": "KMT_CLICK",
+			"key": "Key_T",
+			"pos": {
+				"x": 0.7,
+				"y": 0.15
+			},
+			"switchMap": false
+		},
+		{
+			"comment": "A-",
+			"type": "KMT_CLICK",
+			"key": "Key_A",
+			"pos": {
+				"x": 0.3,
+				"y": 0.35
+			},
+			"switchMap": false
+		},
+		{
+			"comment": "B-",
+			"type": "KMT_CLICK",
+			"key": "Key_S",
+			"pos": {
+				"x": 0.4,
+				"y": 0.35
+			},
+			"switchMap": false
+		},
+		{
+			"comment": "C",
+			"type": "KMT_CLICK",
+			"key": "Key_D",
+			"pos": {
+				"x": 0.5,
+				"y": 0.35
+			},
+			"switchMap": false
+		},
+		{
+			"comment": "D",
+			"type": "KMT_CLICK",
+			"key": "Key_F",
+			"pos": {
+				"x": 0.6,
+				"y": 0.35
+			},
+			"switchMap": false
+		},
+		{
+			"comment": "E",
+			"type": "KMT_CLICK",
+			"key": "Key_G",
+			"pos": {
+				"x": 0.7,
+				"y": 0.35
+			},
+			"switchMap": false
+		},
+		{
+			"comment": "F",
+			"type": "KMT_CLICK",
+			"key": "Key_Z",
+			"pos": {
+				"x": 0.3,
+				"y": 0.55
+			},
+			"switchMap": false
+		},
+		{
+			"comment": "G",
+			"type": "KMT_CLICK",
+			"key": "Key_X",
+			"pos": {
+				"x": 0.4,
+				"y": 0.55
+			},
+			"switchMap": false
+		},
+		{
+			"comment": "A",
+			"type": "KMT_CLICK",
+			"key": "Key_C",
+			"pos": {
+				"x": 0.5,
+				"y": 0.55
+			},
+			"switchMap": false
+		},
+		{
+			"comment": "B",
+			"type": "KMT_CLICK",
+			"key": "Key_V",
+			"pos": {
+				"x": 0.6,
+				"y": 0.55
+			},
+			"switchMap": false
+		},
+		{
+			"comment": "C+",
+			"type": "KMT_CLICK",
+			"key": "Key_B",
+			"pos": {
+				"x": 0.7,
+				"y": 0.55
+			},
+			"switchMap": false
+		}
+	]
+}

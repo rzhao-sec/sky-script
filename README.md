@@ -4,7 +4,7 @@ fully functional with Google Pixel 2XL and QtScrcpy-win-x64-v1.6.0 and Java 16 o
 ### Repo structure
 |-Json2Vbs.jar: for converting notes (in JSON) to VB scripts
 
-|-sky.json:key map used by QtScrcpy
+|-sky.json: key map used by QtScrcpy
 
 |-notes/: notes
 
